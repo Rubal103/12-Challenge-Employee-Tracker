@@ -44,26 +44,34 @@ THEN I am prompted to select an employee to update and their new role and this i
 * npm start to run the application.  
 
 ## Screenshots showing working applciation
+
 * view all departments
 ![alt text](./images/image.png)
+
 
 * View all roles 
 ![alt text](./images/image-1.png)
 
+
 * view all employees
 ![alt text](./images/image-3.png)
+
 
 * Add a new department
 ![alt text](./images/image-4.png)
 
+
 * Add a new role
 ![alt text](./images/image-2.png)
+
 
 * Add a new employee
 ![alt text](./images/image-5.png)
 
+
 * Update employee role
 ![alt text](./images/image-6.png)
+
 
 ## Link to the video
 https://drive.google.com/file/d/1nLB_UVfDWKNoOnQ2hEyfEFIFDAvuAZ1R/view?usp=sharing
