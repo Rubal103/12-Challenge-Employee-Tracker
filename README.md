@@ -66,8 +66,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![alt text](./images/image-6.png)
 
 ## Link to the video
-
+https://drive.google.com/file/d/1nLB_UVfDWKNoOnQ2hEyfEFIFDAvuAZ1R/view?usp=sharing
 
 ## Link to Github repository
+https://github.com/Rubal103/12-Challenge-Employee-Tracker
+
 
 
